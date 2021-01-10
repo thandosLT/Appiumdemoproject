@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30988" started-at="2021-01-08T13:43:29 CAT" finished-at="2021-01-08T13:44:00 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30988" started-at="2021-01-08T13:43:29 CAT" finished-at="2021-01-08T13:44:00 CAT">
+      <class name="test.Tests">
+        <test-method status="PASS" signature="methodLevelSetup()[pri:0, instance:test.Tests@4196c360]" name="methodLevelSetup" is-config="true" duration-ms="23" started-at="2021-01-08T13:43:29 CAT" finished-at="2021-01-08T13:43:29 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method status="PASS" signature="Ow2OneFaceBookLink()[pri:0, instance:test.Tests@4196c360]" name="Ow2OneFaceBookLink" duration-ms="26078" started-at="2021-01-08T13:43:29 CAT" finished-at="2021-01-08T13:43:55 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ow2OneFaceBookLink -->
+        <test-method status="PASS" signature="methodLevelSetup()[pri:0, instance:test.Tests@4196c360]" name="methodLevelSetup" is-config="true" duration-ms="1" started-at="2021-01-08T13:43:55 CAT" finished-at="2021-01-08T13:43:55 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method status="PASS" signature="ThandoServicesHomeLoad()[pri:0, instance:test.Tests@4196c360]" name="ThandoServicesHomeLoad" duration-ms="3514" started-at="2021-01-08T13:43:55 CAT" finished-at="2021-01-08T13:43:58 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThandoServicesHomeLoad -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.Tests@4196c360]" name="teardown" is-config="true" duration-ms="1210" started-at="2021-01-08T13:43:58 CAT" finished-at="2021-01-08T13:44:00 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
